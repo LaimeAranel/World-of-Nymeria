@@ -24,17 +24,33 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> AMETHYST = ITEMS.register("amethyst",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> AMETHYST_ORE = ITEMS.register("amethyst_ore",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> COBALT = ITEMS.register("cobalt",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> COBALT_ORE = ITEMS.register("cobalt_ore",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> REGIRAS_INGOT = ITEMS.register("regiras_ingot",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> FIBER= ITEMS.register("fiber",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> FARFEYDUST = ITEMS.register("farfey_dust",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> FARFEY_ORE = ITEMS.register("farfey_ore",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> LITHIUM = ITEMS.register("lithium",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> LITHIUM_ORE = ITEMS.register("lithium_ore",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> MAGICDUST = ITEMS.register("magicdust",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(16)));
+            public static final RegistryObject<Item> MAGICDUST_ORE = ITEMS.register("magic_dust_ore",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> MAGICDUST_DUST = ITEMS.register("magic_dust_dust",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(16)));
             public static final RegistryObject<Item> ZURITE = ITEMS.register("zurite",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
+            public static final RegistryObject<Item> ZURITE_ORE = ITEMS.register("zurite_ore",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(64)));
             public static final RegistryObject<Item> SNAIL = ITEMS.register("snail",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(16)));

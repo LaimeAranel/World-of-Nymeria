@@ -1,22 +1,7 @@
 {
   "parent": "nymeriacraft:block/midnightwood_leaves",
-  "display": {
-    "thirdperson": {
-      "rotation": [
-        10,
-        -45,
-        170
-      ],
-      "translation": [
-        0,
-        1.5,
-        -2.75
-      ],
-      "scale": [
-        0.375,
-        0.375,
-        0.375
-      ]
-    }
-  }
+  "textures": {
+    "All":"nymeriacraft:block/midnightwoodleaves"
+  },
+  "render_type": "cutout"
 }
