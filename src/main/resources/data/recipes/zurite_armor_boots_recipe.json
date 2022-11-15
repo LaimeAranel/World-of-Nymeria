@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:zurite"
+    },
+    "2": {
+      "item": "nymeriacraft:zurite"
+    },
+    "3": {
+      "item": "nymeriacraft:zurite"
+    },
+    "5": {
+      "item": "nymeriacraft:zurite"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:zurite_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "1": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "2": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "3": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "4": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "5": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "6": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "7": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "8": {
+      "item": "nymeriacraft:cobalt"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:cobalt_block",
+    "count": 1
+  }
+}

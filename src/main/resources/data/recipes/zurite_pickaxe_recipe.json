@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:zurite"
+    },
+    "1": {
+      "item": "nymeriacraft:zurite"
+    },
+    "2": {
+      "item": "nymeriacraft:zurite"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:zurite_pickaxe",
+    "count": 1
+  }
+}

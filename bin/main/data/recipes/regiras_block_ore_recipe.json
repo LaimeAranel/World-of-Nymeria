@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nymeriacraft:regiras_block"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:regiras_ingot",
+    "count": 9
+  }
+}

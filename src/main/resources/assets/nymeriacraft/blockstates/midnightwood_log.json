@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "nymeriacraft:block/midnightwood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "nymeriacraft:block/midnightwood_log"
+    },
+    "axis=z": {
+      "model": "nymeriacraft:block/midnightwood_log",
+      "x": 90
+    }
+  }
+}

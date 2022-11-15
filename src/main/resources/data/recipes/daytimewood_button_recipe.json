@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nymeriacraft:daytimewood_planks"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:daytimewood_button",
+    "count": 1
+  }
+}

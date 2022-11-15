@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:amethyst"
+    },
+    "1": {
+      "item": "nymeriacraft:amethyst"
+    },
+    "2": {
+      "item": "nymeriacraft:amethyst"
+    },
+    "3": {
+      "item": "nymeriacraft:amethyst"
+    },
+    "5": {
+      "item": "nymeriacraft:amethyst"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:amethystarmor_armor_helmet",
+    "count": 1
+  }
+}

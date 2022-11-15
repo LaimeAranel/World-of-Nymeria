@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "1": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "2": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "3": {
+      "item": "nymeriacraft:cobalt"
+    },
+    "5": {
+      "item": "nymeriacraft:cobalt"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:cobaltarmor_armor_helmet",
+    "count": 1
+  }
+}

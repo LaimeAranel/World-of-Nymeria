@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nymeriacraft:block/midnightwood_slab"
+    },
+    "type=top": {
+      "model": "nymeriacraft:block/midnightwood_slab_top"
+    },
+    "type=double": {
+      "model": "nymeriacraft:block/midnightwood_slab_full"
+    }
+  }
+}

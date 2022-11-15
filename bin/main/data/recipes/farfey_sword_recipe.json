@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "1": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:farfey_sword",
+    "count": 1
+  }
+}

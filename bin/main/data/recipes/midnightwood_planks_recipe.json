@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:midnightwood_log"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:midnightwood_planks",
+    "count": 4
+  }
+}

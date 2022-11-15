@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nymeriacraft:magic_dust_block"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:magic_dust_dust",
+    "count": 9
+  }
+}

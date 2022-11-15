@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+"all": "nymeriacraft:block/amethyst_ore_block"
+}
+}

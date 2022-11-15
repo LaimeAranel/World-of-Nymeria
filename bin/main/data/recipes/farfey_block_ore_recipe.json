@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nymeriacraft:farfey_block"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:farfey_dust",
+    "count": 9
+  }
+}

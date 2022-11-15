@@ -23,7 +23,13 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import nymeriacraft.nymeriacraft.block.ModBlocks;
+import nymeriacraft.nymeriacraft.entity.ModEntityTypes;
+import nymeriacraft.nymeriacraft.item.ModItems;
+import nymeriacraft.nymeriacraft.villager.ModVillagers;
+import software.bernie.geckolib3.GeckoLib;
 import org.slf4j.Logger;
+
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(nymeriacraft.MODID)
@@ -48,15 +54,20 @@ public class nymeriacraft {
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
-
+ ModItems.register(modEventBus);
+ModBlocks.register(modEventBus);
         // Register the Deferred Register to the mod event bus so blocks get registered
         BLOCKS.register(modEventBus);
         // Register the Deferred Register to the mod event bus so items get registered
         ITEMS.register(modEventBus);
+       // ModVillagers.register(modEventBus);
+        //ModEntityTypes.register(modEventBus);
 
-        // Register ourselves for server and other game events we are interested in
+        GeckoLib.initialize();
+
         MinecraftForge.EVENT_BUS.register(this);
     }
+    
 
     private void commonSetup(final FMLCommonSetupEvent event) {
         // Some common setup code

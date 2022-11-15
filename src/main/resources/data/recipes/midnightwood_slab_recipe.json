@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "1": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "2": {
+      "item": "nymeriacraft:midnightwood_planks"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:midnightwood_slab",
+    "count": 6
+  }
+}

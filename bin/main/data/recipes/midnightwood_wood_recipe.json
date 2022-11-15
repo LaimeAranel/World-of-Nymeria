@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:midnightwood_log"
+    },
+    "1": {
+      "item": "nymeriacraft:midnightwood_log"
+    },
+    "2": {
+      "item": "nymeriacraft:midnightwood_log"
+    },
+    "3": {
+      "item": "nymeriacraft:midnightwood_log"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:midnightwood_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nymeriacraft:block/daytimewood_slab"
+    },
+    "type=top": {
+      "model": "nymeriacraft:block/daytimewood_slab_top"
+    },
+    "type=double": {
+      "model": "nymeriacraft:block/daytimewood_slab_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nymeriacraft:block/ascendriawood_slab"
+    },
+    "type=top": {
+      "model": "nymeriacraft:block/ascendriawood_slab_top"
+    },
+    "type=double": {
+      "model": "nymeriacraft:block/ascendriawood_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ascendriawood_log"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:ascendriawood_planks",
+    "count": 4
+  }
+}

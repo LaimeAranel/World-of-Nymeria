@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "1": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "2": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "3": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "4": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "5": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "6": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "7": {
+      "item": "nymeriacraft:farfey_dust"
+    },
+    "8": {
+      "item": "nymeriacraft:farfey_dust"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:farfey_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nymeriacraft:midnightwood_planks"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:midnightwood_button",
+    "count": 1
+  }
+}
