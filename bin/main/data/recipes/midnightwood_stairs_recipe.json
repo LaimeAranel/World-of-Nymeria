@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "3": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "4": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "6": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "7": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "8": {
+      "item": "nymeriacraft:midnightwood_planks"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:midnightwood_stairs",
+    "count": 4
+  }
+}

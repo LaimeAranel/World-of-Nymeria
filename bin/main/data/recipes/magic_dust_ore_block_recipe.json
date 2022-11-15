@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "1": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "2": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "3": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "4": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "5": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "6": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "7": {
+      "item": "nymeriacraft:magic_dust_dust"
+    },
+    "8": {
+      "item": "nymeriacraft:magic_dust_dust"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:magic_dust_block",
+    "count": 1
+  }
+}

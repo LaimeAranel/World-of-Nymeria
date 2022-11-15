@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "1": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "2": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "3": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "4": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "5": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "6": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "7": {
+      "item": "nymeriacraft:regiras_ingot"
+    },
+    "8": {
+      "item": "nymeriacraft:regiras_ingot"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:regiras_block",
+    "count": 1
+  }
+}

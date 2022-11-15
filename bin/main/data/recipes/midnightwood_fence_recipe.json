@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "3": {
+      "item": "nymeriacraft:midnightwood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "nymeriacraft:midnightwood_planks"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:midnightwood_fence",
+    "count": 3
+  }
+}

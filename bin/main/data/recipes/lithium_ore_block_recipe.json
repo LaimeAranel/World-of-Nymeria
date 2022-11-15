@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:lithium"
+    },
+    "1": {
+      "item": "nymeriacraft:lithium"
+    },
+    "2": {
+      "item": "nymeriacraft:lithium"
+    },
+    "3": {
+      "item": "nymeriacraft:lithium"
+    },
+    "4": {
+      "item": "nymeriacraft:lithium"
+    },
+    "5": {
+      "item": "nymeriacraft:lithium"
+    },
+    "6": {
+      "item": "nymeriacraft:lithium"
+    },
+    "7": {
+      "item": "nymeriacraft:lithium"
+    },
+    "8": {
+      "item": "nymeriacraft:lithium"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:lithium_block",
+    "count": 1
+  }
+}

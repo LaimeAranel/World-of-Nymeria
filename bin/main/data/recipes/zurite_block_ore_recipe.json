@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nymeriacraft:zurite_block"
+    }
+  ],
+  "result": {
+    "item": "nymeriacraft:zurite",
+    "count": 9
+  }
+}

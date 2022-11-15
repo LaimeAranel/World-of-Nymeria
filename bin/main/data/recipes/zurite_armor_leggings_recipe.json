@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "nymeriacraft:zurite"
+    },
+    "1": {
+      "item": "nymeriacraft:zurite"
+    },
+    "2": {
+      "item": "nymeriacraft:zurite"
+    },
+    "3": {
+      "item": "nymeriacraft:zurite"
+    },
+    "5": {
+      "item": "nymeriacraft:zurite"
+    },
+    "6": {
+      "item": "nymeriacraft:zurite"
+    },
+    "8": {
+      "item": "nymeriacraft:zurite"
+    }
+  },
+  "result": {
+    "item": "nymeriacraft:zurite_armor_leggings",
+    "count": 1
+  }
+}
