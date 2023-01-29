@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/regiras_block",
+  "parent": "nymeriacraft:block/regiras_block",
   "display": {
     "thirdperson": {
       "rotation": [

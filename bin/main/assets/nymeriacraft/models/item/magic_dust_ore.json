@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/magic_dust_ore",
+  "parent": "nymeriacraft:block/magic_dust_ore",
   "display": {
     "thirdperson": {
       "rotation": [

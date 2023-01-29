@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "nymeriacraft:block/ascendriawood_planks",
+    "side": "nymeriacraft:block/ascendriawood_planks",
+    "top": "nymeriacraft:block/ascendriawood_planks"
+  }
+}

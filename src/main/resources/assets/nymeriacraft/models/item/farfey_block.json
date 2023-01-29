@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/farfey_block",
+  "parent": "nymeriacraft:block/farfey_block",
   "display": {
     "thirdperson": {
       "rotation": [

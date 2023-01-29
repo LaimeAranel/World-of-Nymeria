@@ -1,7 +1,7 @@
 {
-  "parent": "nymeriacraft:block/daytimewood_leaves",
+  "parent": "minecraft:block/leaves",
 "textures": {
-  "All": "nymeriacraftcraft:block/daytimewood_leaves"
+  "all": "nymeriacraft:block/daytimewood_leaves"
 },
 "render_type": "cutout"
 }

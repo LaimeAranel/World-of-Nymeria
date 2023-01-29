@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/daytimewood_planks",
+  "parent": "block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/daytimewood_planks"
+    "all":"nymeriacraft:block/daytimewood_planks"
   }
 }

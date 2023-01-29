@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/daytimewood_log",
+  "parent": "nymeriacraft:block/daytimewood_log",
   "display": {
     "thirdperson": {
       "rotation": [

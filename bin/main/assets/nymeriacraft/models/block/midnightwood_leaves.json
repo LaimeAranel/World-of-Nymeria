@@ -1,7 +1,7 @@
 {
-  "parent": "nymeriacraft:block/midnightwood_leaves",
+  "parent": "minecraft:block/leaves",
   "textures": {
-    "All":"nymeriacraft:block/midnightwoodleaves"
+    "all":"nymeriacraft:block/midnightwood_leaves"
   },
   "render_type": "cutout"
 }

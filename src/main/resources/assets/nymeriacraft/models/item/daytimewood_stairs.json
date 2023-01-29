@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/daytimewood_stairs",
+  "parent": "nymeriacraft:block/daytimewood_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

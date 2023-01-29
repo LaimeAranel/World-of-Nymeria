@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/lithium_ore",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/lithium_ore"
+    "all":"nymeriacraft:block/lithium_ore"
   }
 }

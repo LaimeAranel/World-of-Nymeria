@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/midnightwood_stairs",
+  "parent": "nymeriacraft:block/midnightwood_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

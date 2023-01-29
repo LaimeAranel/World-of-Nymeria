@@ -1,3 +1,7 @@
+
 {
-  "parent": "nymeriacraft:block/midnightwood_fence_gate"
+  "parent": "minecraft:block/template_fence_gate",
+  "textures": {
+    "texture": "nymeriacraft:block/midnightwood_planks"
+  }
 }

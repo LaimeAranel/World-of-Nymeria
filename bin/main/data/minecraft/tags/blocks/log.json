@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+      "nymeriacraft:ascendriawood_log",
+      "nymeriacraft:ascendriawood_wood",
+      "nymeriacraft:daytimewood_wood",
+      "nymeriacraft:daytimewood_log",
+      "nymeriacraft:midnightwood_log",
+      "nymeriacraft:midnightwood_wood"
+    ]
+  }

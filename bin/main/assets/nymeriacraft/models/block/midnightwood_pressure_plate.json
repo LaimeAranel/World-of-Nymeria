@@ -1,3 +1,6 @@
 {
-  "parent": "nymeriacraft:block/midnightwood_pressure_plate"
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "nymeriacraft:block/midnightwood_planks"
+  }
 }

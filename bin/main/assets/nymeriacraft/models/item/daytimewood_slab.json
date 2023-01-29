@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/daytimewood_slab",
+  "parent": "nymeriacraft:block/daytimewood_slab",
   "display": {
     "thirdperson": {
       "rotation": [

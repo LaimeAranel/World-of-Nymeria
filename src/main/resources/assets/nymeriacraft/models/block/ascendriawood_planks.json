@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/ascendriawood_planks",
+  "parent": "block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/ascendriawood_planks"
+    "all":"nymeriacraft:block/ascendriawood_planks"
   }
 }

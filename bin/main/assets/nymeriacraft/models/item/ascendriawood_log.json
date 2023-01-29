@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/ascendriawood_log",
+  "parent": "nymeriacraft:block/ascendriawood_log",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button_pressed",
+    "textures": {
+      "all": "nymeriacraft:block/ascendriawood_planks"
+    }
+  }

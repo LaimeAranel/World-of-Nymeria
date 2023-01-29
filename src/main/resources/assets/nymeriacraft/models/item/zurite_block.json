@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/zurite_block",
+  "parent": "nymeriacraft:block/zurite_block",
   "display": {
     "thirdperson": {
       "rotation": [

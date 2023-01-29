@@ -1,3 +1,6 @@
 {
-  "parent": "nymeriacraft:block/daytimewood_pressure_plate"
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "nymeriacraft:block/daytimewood_planks"
+  }
 }

@@ -1,6 +1,8 @@
 {
-  "parent": "nymeriacraft:block/daytimewood_slab",
+  "parent": "minecraft:block/slab",
   "textures": {
-    "All":"nymeriacraft:block/daytimewood_slab"
+    "bottom":"nymeriacraft:block/daytimewood_planks",
+    "side": "nymeriacraft:block/daytimewood_planks",
+    "top": "nymeriacraft:block/daytimewood_planks"
   }
 }

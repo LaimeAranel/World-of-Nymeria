@@ -1,6 +1,7 @@
 {
-  "parent": "nymeriacraft:block/ascendriawood_log",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "All":"nymeriacraft:block/ascendriawood_log"
+    "end": "nymeriacraft:block/ascendriawood_log_top",
+    "side": "nymeriacraft:block/ascendriawood_log"
   }
 }

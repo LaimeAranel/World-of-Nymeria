@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/cobalt_block",
+  "parent": "nymeriacraft:block/cobalt_block",
   "display": {
     "thirdperson": {
       "rotation": [

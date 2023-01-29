@@ -1,6 +1,8 @@
 {
-  "parent": "nymeriacraft:block/ascendriawood_stairs",
+  "parent": "minecraft:block/stairs",
   "textures": {
-    "All":"nymeriacraft:block/ascendriawood_stairs"
+    "bottom": "nymeriacraft:block/ascendriawood_planks",
+    "side": "nymeriacraft:block/ascendriawood_planks",
+    "top": "nymeriacraft:block/ascendriawood_planks"
   }
 }

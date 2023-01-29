@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/regiras_ore",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/regiras_ore"
+    "all":"nymeriacraft:block/regiras_ore"
   }
 }

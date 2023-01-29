@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/lithium_block",
+  "parent": "nymeriacraft:block/lithium_block",
   "display": {
     "thirdperson": {
       "rotation": [

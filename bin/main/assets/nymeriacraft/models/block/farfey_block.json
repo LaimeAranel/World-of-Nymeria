@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/farfey_block",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/farfey_block"
+    "all":"nymeriacraft:block/farfey_ore_block"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/midnightwood_planks",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/midnightwood_planks"
+    "all":"nymeriacraft:block/midnightwood_planks"
   }
 }

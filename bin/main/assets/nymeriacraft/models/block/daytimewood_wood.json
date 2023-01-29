@@ -1,6 +1,7 @@
 {
-  "parent": "nymeriacraft:block/daytimewood_wood",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "All":"nymeriacraft:block/daytimewood_wood"
+    "end":     "nymeriacraft:block/daytimewood_log_side",
+    "side":  "nymeriacraft:block/daytimewood_log_side"
   }
 }

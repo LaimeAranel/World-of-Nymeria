@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/ascendriawood_stairs",
+  "parent": "nymeriacraft:block/ascendriawood_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

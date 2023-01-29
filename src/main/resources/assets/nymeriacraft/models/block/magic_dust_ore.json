@@ -1,6 +1,6 @@
 {
-  "parent": "nymeriacraft:block/magic_dust_ore",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "All":"nymeriacraft:block/magic_dust_ore"
+    "all":"nymeriacraft:block/magic_dust_ore"
   }
 }

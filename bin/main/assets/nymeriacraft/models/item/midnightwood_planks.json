@@ -1,5 +1,5 @@
 {
-  "parent": "nymeriaguardian:block/midnightwood_planks",
+  "parent": "nymeriacraft:block/midnightwood_planks",
   "display": {
     "thirdperson": {
       "rotation": [
